@@ -6,6 +6,6 @@ public class FactorialNumber
         for(int i=1; i<=num; i++){
             fact=fact*i;
         }
-        System.out.println(fact);
+        System.out.println("The factorial number is "+fact);
     }
 }
